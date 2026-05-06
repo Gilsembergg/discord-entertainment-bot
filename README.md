@@ -52,11 +52,11 @@ O bot combina regras de moderação, respostas automatizadas e comportamento din
 
 ### 2. Configurar variável de ambiente
 
-DISCORD_TOKEN=seu_token_aqui
+- DISCORD_TOKEN=seu_token_aqui
 
 ### 3. Executar o bot
 
-python bot/main.py
+- python bot/main.py
 
 ---
 
@@ -64,9 +64,13 @@ python bot/main.py
 
 
 !ativar_caps
+
 !desativar_caps
+
 !irritar @usuario
+
 !parar_irritar @usuario
+
 !say mensagem
 
 
