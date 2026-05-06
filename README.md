@@ -28,6 +28,14 @@ discord.py
 Asyncio
 Regex
 
-# Objetivo do projeto
+# Como rodar
+Instalar dependências:
 
-Explorar automação de comunidades, controle de comportamento de usuários e construção de sistemas reativos em tempo real.
+pip install -r requirements.txt
+
+Criar variável de ambiente:
+
+DISCORD_TOKEN=seu_token_aqui
+
+Rodar:
+python bot/main.py
